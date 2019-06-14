@@ -12,10 +12,9 @@ You can use [Postman](https://www.getpostman.com/) to test it.
 
 2. You have to pass Basic Auth too, this is the client credentials, not the user. In this example the username is "client" and password "clientpassword" (without quotes).
 
-The authorization header will looks like: 
-Authorization : Basic Y2xpZW50OmNsaWVudHBhc3N3b3Jk
 
-3. Set the Content-Type header to application/x-www-form-urlencoded
+
+2. Set the Content-Type header to application/x-www-form-urlencoded
 
 ![alt text](https://snag.gy/FSs0Cw.jpg)
 
