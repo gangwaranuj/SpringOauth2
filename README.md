@@ -12,13 +12,7 @@ You can use [Postman](https://www.getpostman.com/) to test it.
 
 2. You have to pass Basic Auth too, this is the client credentials, not the user. In this example the username is "client" and password "clientpassword" (without quotes).
 
-
-
-2. Set the Content-Type header to application/x-www-form-urlencoded
-
-![alt text](https://snag.gy/FSs0Cw.jpg)
-
-4. Set the body
+3. Set the body
 
 You'll have to choose x-www-form-urlencoded and set the values:
 
