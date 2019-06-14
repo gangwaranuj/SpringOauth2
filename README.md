@@ -28,6 +28,7 @@ grant_type  password
 
 When you hit the send button, you'll get something like that:
 
+
 ```json
 {
     "access_token": "908217ea-e691-4d04-9e51-697939d60844",
